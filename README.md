@@ -28,24 +28,6 @@ Projeto de um pequeno sistema (API REST) de usuários e departamentos, com os se
 - ``H2 Database``
 - ``Postman``
 
-### Testes do Sistema 
-
-- Iniciando o sistema:
-
-https://user-images.githubusercontent.com/105133847/236484978-1d81bf9b-8fc9-4a65-b208-e6e41e466ac7.mp4
-
-- Teste no H2 Database:
-
-https://user-images.githubusercontent.com/105133847/236485485-cf442792-b69a-4e45-88d3-0b00a20917fc.mp4
-
-- Testes no Postman: 
-
-https://user-images.githubusercontent.com/105133847/236485972-0946ce59-d0c2-45f0-b3d7-79d9b024af7b.mp4
-
-- Testando se o novo usuário foi inserido no banco atrávés do H2 Database:
-
-https://user-images.githubusercontent.com/105133847/236486500-3a14148f-f390-42b5-b37b-0829139efda3.mp4
-
 ### Desenvolvedor
 
 [<img src="https://user-images.githubusercontent.com/105133847/215238362-763c8d76-55d2-4fd0-8b5f-f7080fbc4114.jpg" width=115><br><sub>Jurandi Junior</sub>](https://github.com/jurandi1)
